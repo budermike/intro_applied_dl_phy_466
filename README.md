@@ -35,13 +35,7 @@ repo/ <br>
 │   └── Lecture Slides (PDFs)<br>
 │<br>
 ├── tutorials/<br>
-│   └── Jupyter Notebooks on various topics:<br>
-│       • DNNs<br>
-│       • CNNs<br>
-│       • AE/VAE<br>
-│       • GAN<br>
-│       • Normalizing Flows<br>
-|       • ...<br>
+│   └── Jupyter Notebooks on various topics:<br>   
 │ <br>
 ├── CNN_exam_mike_buder.ipynb<br>
 ├── anomaly_detection_exam_mike_buder.ipynb<br>
