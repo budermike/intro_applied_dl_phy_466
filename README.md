@@ -2,7 +2,7 @@
 
 This repository accompanies the module *Introduction to Applied Deep Learning*. It contains all materials from lectures, tutorials, as well as the three exam notebooks for the oral examination.
 
----
+
 
 ## Course Description
 
@@ -14,7 +14,7 @@ The course provides a practice-oriented introduction to Deep Learning, with a sp
 
 The course combines theoretical lectures with practical hands-on sessions and includes tutorials from invited experts.
 
----
+
 
 ## Learning Objectives
 
@@ -25,7 +25,7 @@ Upon completion of the module, participants should be able to:
 - process various data types such as **images**, **sequences**, and **point clouds**,
 - apply Deep Learning strategies in practical research applications.
 
----
+
 
 ## Repository Structure
 
