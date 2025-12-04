@@ -42,7 +42,7 @@ repo/ <br>
 │       • GAN<br>
 │       • Normalizing Flows<br>
 |       • ...<br>
-│<br>
+│ <br>
 ├── CNN_exam_mike_buder.ipynb<br>
 ├── anomaly_detection_exam_mike_buder.ipynb<br>
 └── image_generation_exam_mike_buder.ipynb<br>
