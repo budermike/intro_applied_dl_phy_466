@@ -38,5 +38,5 @@ repo/ <br>
 │   └── Jupyter Notebooks on various topics<br>
 │ <br>
 ├── CNN_exam_mike_buder.ipynb<br>
-├── anomaly_detection_exam_mike_buder.ipynb<br>
-└── image_generation_exam_mike_buder.ipynb<br>
+├── CAE_exam_mike_buder.ipynb<br>
+└── VAE_exam_mike_buder.ipynb<br>
